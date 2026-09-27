@@ -1,0 +1,2 @@
+Hello, this is my GitHub exercise.
+I am practicing commits and branches.
